@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-jose
+psycopg2-binary
+azure-storage-blob
+python-dotenv
